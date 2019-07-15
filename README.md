@@ -1,7 +1,7 @@
 # Rectangle-Class
 Basic Rectangle Class
 
-# Question answers: Java Programming Language
+## Question answers: Java Programming Language  ##
 
 1.	What are the primitive variables and non-primitive or reference variables give some examples?
 
