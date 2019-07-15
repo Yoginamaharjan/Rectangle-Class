@@ -23,7 +23,6 @@ Class Rectangle{
 int len;
 int bred;
 
-
 public Rectangle(){
 sysout("Constructor called");
 this.len = 100;
