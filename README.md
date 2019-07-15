@@ -3,20 +3,23 @@ Basic Rectangle Class
 
 ## Question answers: Java Programming Language  ##
 
-1.	What are the primitive variables and non-primitive or reference variables give some examples?
+### 1.	What are the primitive variables and non-primitive or reference variables give some examples?
 
-Ans: The primitives variables are the one which are listed by the primitive data types such as int, char, float, etc., that directly stores the data. For example: 
+Ans: The primitives variables are the one which are listed by the primitive data types such as int, char, float, etc., that directly stores the data. 
+For example: 
                      int value; // value is the primitive variable which stores the integer value
                      char alpha; //alpha is the primitive variable that stores the char value
 
-  The non-primitive or reference variables are the one which are listed by non-primitive data types such as arrays, class, etc. These variables contain the reference of the certain data or objects. For example:
-Human student = new Human(); // here student is the reference variable which contains the reference of the objects of Human class.
+  The non-primitive or reference variables are the one which are listed by non-primitive data types such as arrays, class, etc. These variables contain 
+the reference of the certain data or objects. For example:
+		Human student = new Human(); // here student is the reference variable which contains the reference of the objects of Human class.
 
-2.	Why objects are referred as reference type.
+### 2.	Why objects are referred as reference type.
 
-Ans: Objects are the instance of the class. The variable initialized to create an object does not contain the actual object but contains the reference to the class instance or object. This is why objects are referred as reference type.
+Ans: Objects are the instance of the class. The variable initialized to create an object does not contain the actual object but contains the reference
+to the class instance or object. This is why objects are referred as reference type.
 
-3.	Trace the output:
+### 3.	Trace the output:
 
 
 Class Rectangle{
