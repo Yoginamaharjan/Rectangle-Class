@@ -14,6 +14,14 @@ public class Recmain {
 		Rectangle R2 = new Rectangle(5,7);
 		System.out.println("The area of the rectangle is R2 " + R2.calcArea());
 		System.out.println("The perimeter of the rectangle is R2 " +R2.calcPerimeter());
+		
+		Rectangle[] RecArray = new Rectangle[5];
+		
+		for(int i=0; i<5; i++)
+		{
+			RecArray[i] = new Rectangle();
+			RecArray[i].calcArea();
+		}
 
 	}
 
